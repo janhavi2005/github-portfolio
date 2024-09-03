@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CONTACT</title>
+</head>
+<body>
+
+<h1 style="background-color:yellow;"><br></h1>
+
+<h2>Contact Me</h2>
+
+<p>
+phone: +91 9370246250 <br>
+Email : janhavi.kawadkar@mitaoe.ac.in
+</p>
+
+</body>
+</html>
